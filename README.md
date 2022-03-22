@@ -10,12 +10,15 @@ Social media - Twitter - is becoming an important tool in developing a community
 4. Getting customer feedback from the confort of their Twitter accounts
 5. Keep tabs on our competitors
 
-## Objectives of the pipeline
+## Main Objective
+1. Provide tweets to the Social Media, Marketing and Analytics team for Analysis and Visualization
+
+## Other objectives of the project
 1. Extract tweets with a keyword (this case "tesla") in real-time
 2. Create batches of tweets 
 3. Analyze sentiments in the tweets every 30 minutes 
 4. Insert the clean and analyzed data into an AWS S3 bucket and Redshift table ready for querrying and visualization
-5. Visualize the tweets using AWS QuickSight
+6. Visualize the tweets using AWS QuickSight
 
 ## Medium Article
 https://medium.com/@jkimera5/creating-real-time-tweets-processing-pipeline-using-aws-ec2-lambda-s3-glue-and-athena-c0004000029d
