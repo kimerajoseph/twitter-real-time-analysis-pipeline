@@ -11,7 +11,7 @@ Social media - Twitter - is becoming an important tool in developing a community
 5. Keep tabs on our competitors
 
 ## Main Objective
-1. Provide tweets to the Social Media, Marketing and Analytics team for Analysis and Visualization
+1. Provide cleaned and tagged tweets to the Social Media, Marketing and Analytics teams for Analysis and Visualization
 
 ## Other objectives of the project
 1. Extract tweets with a keyword (this case "tesla") in real-time
