@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Famazon-web-services-logo%2F&psig=AOvVaw30LwvBjZY2PFx4Lm8cOXim&ust=1648027144372000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD3u9ax2fYCFQAAAAAdAAAAABAI" alt="AWS Logo" width="100"/>
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="100"/>
 # Project | Creating real-time Tweets Extraction and Analysis Pipelines
 ## Introduction
 Social media - Twitter - is becoming an important tool in developing a community around a product
