@@ -1,4 +1,4 @@
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="500"/>
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="300"/>
 
 # Project | Creating real-time Tweets Extraction and Analysis Pipelines
 ## Introduction
