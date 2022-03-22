@@ -1,0 +1,6 @@
+requests
+pandas
+vaderSentiment
+awswrangler
+s3fs
+
